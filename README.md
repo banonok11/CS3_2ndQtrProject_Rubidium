@@ -1,5 +1,5 @@
-# RubidiumOcampoViray Project Proposal
-## This is the website title
+# Meta Royale
+## The Ultimate Guide to the Clash Royale Arena
 
 #### Logo:
 #### ![Logo](https://github.com/banonok11/WDProjRubidiumOcampoViray/blob/main/images/logo.png)

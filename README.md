@@ -1,5 +1,6 @@
-# Meta Royale
+# WDProjRubidiumOcampoViray Project Proposal
 
+## Meta Royale
 ### Your Ultimate Guide to the Clash Royale Arena
 
 ---

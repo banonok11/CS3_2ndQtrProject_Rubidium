@@ -20,10 +20,10 @@ Sick and tired of losing matches in *Clash Royale*? Well, you came to the right 
 | Page | Title | Description |
 |------|--------|-------------|
 | *Home* | Master the Game | Introduces the site with an introductory paragraph about the website and a picture of a *Hog Rider*. |
-| *Deck Archetypes* | Build Your Winning Deck | Displays the different types of decks (deck archetypes), prodividing their playstyle, layout, and example decks. |
-| *Meta Cards* | Frequently Used Cards in the Archetypes | Interactive page that allows users to filter cards by deck archetype. This will show the most frequently used cards in that archetype, and will show the cards' image, name, and elixir cost. |
-| *Arena Progression* | A Guide to All Arenas |  Shows the basic information in each arena, the cards to expect, levels required, and tips for progression. (A video will also be embedded showcasing a guide to all the arenas). |
-| *About Us* | Meet the Creators | Includes short descriptions of the creators and links to social media (GitHub, etc.). |
+| *Deck Archetypes* | Build Your Winning Deck | Displays the different types of decks (deck archetypes), prodividing their playstyle, layout, and example decks. (Each deck archetype has its own webpage) |
+| *Meta Cards* | Frequently Used Cards | Interactive page that allows users to filter cards by deck archetype. This will show the most frequently used cards in that archetype, and will show the cards' image, name, and elixir cost. |
+| *Arena Progression* | A Guide to All Arenas |  Shows the basic information in each arena, the cards to expect, and tips for progression. (A video will also be embedded showcasing a guide to all the arenas). |
+| *About Us* | Meet the Creators | Includes the names of the creators and links to social media (GitHub, etc.). |
 
 ---
 

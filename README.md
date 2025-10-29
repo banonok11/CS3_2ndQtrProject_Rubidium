@@ -30,4 +30,15 @@ Sick and tired of losing matches in *Clash Royale*? Well, you came to the right 
 ## JavaScript Integration
 JavaScript will be used on the **Meta Cards** page. It will be used to create filter buttons for deck archetypes. When the user clicks one of the buttons, only the most frequently used cards belonging to that archetype will be shown.
 
-## Wireframe
+## Wireframes
+### Home: ![Home](https://github.com/banonok11/WDProjRubidiumOcampoViray/blob/main/images/Home.png)
+### Deck Archetypes: ![Deck Archetypes](https://github.com/banonok11/WDProjRubidiumOcampoViray/blob/main/images/Deck%20Archetypes.png)
+#### Control: ![Control](https://github.com/banonok11/WDProjRubidiumOcampoViray/blob/main/images/Control.png)
+#### Bait: ![Bait](https://github.com/banonok11/WDProjRubidiumOcampoViray/blob/main/images/Bait.png)
+#### Bridgespam: ![Bridgespam](https://github.com/banonok11/WDProjRubidiumOcampoViray/blob/main/images/Bridgespam.png)
+#### Cycle:![Cycle](https://github.com/banonok11/WDProjRubidiumOcampoViray/blob/main/images/Cycle.png)
+#### Siege:![Siege](https://github.com/banonok11/WDProjRubidiumOcampoViray/blob/main/images/Siege.png)
+#### Beatdown:![Beatdown](https://github.com/banonok11/WDProjRubidiumOcampoViray/blob/main/images/Beatdown.png)
+### Meta Cards: ![Meta Cards](https://github.com/banonok11/WDProjRubidiumOcampoViray/blob/main/images/Meta%20Cards.png)
+### Arena Progression:![Arena Progression](https://github.com/banonok11/WDProjRubidiumOcampoViray/blob/main/images/Arena%20Progression.png)
+### About Us: ![About Us](https://github.com/banonok11/WDProjRubidiumOcampoViray/blob/main/images/About%20Us.png)
